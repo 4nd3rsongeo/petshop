@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 export function Hero() {
   return (
-    <section className="bg-[#E84C3D] text-white relative overflow-hidden">
+    <section className="bg-[#fcc126] text-white relative overflow-hidden">
 
       <div>
         <Image
@@ -29,10 +29,10 @@ export function Hero() {
               className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10"
               data-aos="fade-down"
             >
-              Seu pet merece cuidado, carinho e atenção especial.
+              Seu pet merece cuidado, carinho e atenção especial. Você não.
             </h1>
             <p className=" lg:text-lg" data-aos="fade-right">
-              Oferecemos os melhores serviços para garantir o bem-estar e a felicidade do seu amigo de quatro patas.
+              Finja que é responsável por alguém com tranquilidade. 
             </p>
 
 
@@ -40,7 +40,7 @@ export function Hero() {
               data-aos="fade-up"
               data-aos-delay="500"
               target='_blank'
-              href={`https://wa.me/556799998800?text=Olá vim pelo site e gostaria de mais informações`}
+              href={`https://wa.me/551199998800?text=Olá vim pelo site e gostaria de mais informações`}
               className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
             >
               <WhatsappLogo className='w-5 h-5' />
@@ -49,7 +49,7 @@ export function Hero() {
 
             <div className="mt-8">
               <p className="text-sm mb-4">
-                <b className="bg-black text-white px-2 py-1 rounded-md">5%</b> de desconto na primeira compra.
+                <b className="bg-black text-white px-2 py-1 rounded-md">95%</b> de desconto na primeira compra.
               </p>
 
               <div className='flex mt-4'>

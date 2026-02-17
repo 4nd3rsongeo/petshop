@@ -1,7 +1,7 @@
 
 import golden from '../../../public/golden.png'
 import royal from '../../../public/royal.png'
-import primier from '../../../public/primier.png'
+import premier from '../../../public/primier.png'
 import whiskas from '../../../public/whiskas.png'
 import natural from '../../../public/natural.png'
 import Image from 'next/image'
@@ -10,7 +10,7 @@ import { FacebookLogo, InstagramLogo, YoutubeLogo } from '@phosphor-icons/react/
 const brands = [
   { name: "Royal Canin", logo: royal },
   { name: "Golden", logo: golden },
-  { name: "Primier", logo: primier },
+  { name: "Primier", logo: premier },
   { name: "Formula Natural", logo: natural },
   { name: "Whiskas", logo: whiskas },
   { name: "Golden", logo: golden },
@@ -62,7 +62,7 @@ export function Footer() {
             <h3 className='text-2xl font-semibold mb-2'>Contatos</h3>
             <p>Email: teste@teste.com</p>
             <p>Telefone: (XX) 1231831238</p>
-            <p>Rua X, centro, Campo Grande | MS</p>
+            <p>Rua X, centro, Rio Branco - AC</p>
           </div>
 
 

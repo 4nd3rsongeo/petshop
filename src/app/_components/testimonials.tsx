@@ -17,13 +17,13 @@ const testimonials = [
   },
   {
     content:
-      "O serviço de hotel para pets foi uma experiência incrível! Precisei viajar e fiquei tranquilo sabendo que o Thor estava sendo bem cuidado. Recebi fotos e atualizações diárias, e ele voltou para casa super feliz! Sem dúvida, o melhor petshop da região.",
+      "Depois que comecei a frequentar a tosa, economizei vários trocos com o barbeiro.",
     author: "Rafael",
-    role: "Tutor do Thor (Bulldog Francês)",
+    role: "Pai de PET e filho solteiro",
     image: tutor1,
   },
   {
-    content: "Meus gatos nunca gostaram de sair de casa, mas o atendimento nesse petshop fez toda a diferença. A equipe é muito paciente e cuidadosa, e o serviço de banho especializado para felinos foi maravilhoso! Agora sei onde confiar o cuidado deles.",
+    content: "Meus gatos nunca gostaram de sair de casa, mas o atendimento nesse petshop fez toda a diferença. Agora eles falam línguas estranhas e desenham pentagramas.",
     author: "Camila fernandes",
     role: "Tutora da Mel e do Max",
     image: tutor2,

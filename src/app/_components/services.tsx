@@ -15,7 +15,7 @@ const services = [
   },
   {
     title: "Consulta Veterinária",
-    description: "Oferece atendimento clínico básico ou especializado para cuidar da saúde do animal. Inclui diagnóstico de doenças, aplicação de vacinas obrigatórias.",
+    description: "Oferece atendimento clínico básico ou especializado para cuidar da saúde do animal. Inclui diagnóstico de doenças, aplicação de vacinas obrigatórias. Cuidamos de Border Collie e às vezes de Border Line tb...",
     duration: "1h",
     price: "$45",
     icon: <Syringe />,
@@ -35,6 +35,14 @@ const services = [
     duration: "1h",
     price: "$60",
     icon: <Hotel />,
+    linkText: 'Olá, vi no site sobre Hotel para pets e gostaria de mais informações.'
+  },
+  {
+    title: "Ritual Xamã",
+    description: "Sacrifício desumanizado bestial, sem garantia de resultado e com pagamento adiantado.",
+    duration: "3min - 1 miojo",
+    price: "$1 BTC",
+    icon: <Syringe />,
     linkText: 'Olá, vi no site sobre Hotel para pets e gostaria de mais informações.'
   },
 ]

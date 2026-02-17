@@ -1,3 +1,4 @@
+"use client"
 import { About } from "./_components/about";
 import { Footer } from "./_components/footer";
 import { Hero } from "./_components/hero";
